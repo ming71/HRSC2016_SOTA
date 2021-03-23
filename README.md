@@ -29,7 +29,7 @@ This repo collects some state-of-the-art results on remote sensing ship dataset 
 |     CFC-Net     |  ResNet101   |  800x800   |  89.70  |    -    | 28   |          [arxiv](https://arxiv.org/abs/2101.06849)           | [pytorch](https://github.com/ming71/CFC-Net)                 |
 |       GWD       |  ResNet101   |  800x800   |  89.85  |  97.37  | -    |          [arxiv](https://arxiv.org/abs/2101.11952)           | [tf](https://github.com/yangxue0827/RotationDetection)       |
 |     S2ANet      |  ResNet101   |  512x800   |  90.17  |  95.01  | 12.7 |           [TGRS](https://arxiv.org/abs/2008.09397)           | [pytorch](https://github.com/csuhan/s2anet)                  |
-|                 |  ResNet101   |  512x800   |  90.46  |  97.63  | -    |       [CVPR2021](https://arxiv.org/pdf/2103.07733.pdf)       | [pytorch](https://github.com/csuhan/ReDet)                   |
+|      ReDet      |  ResNet101   |  512x800   |  90.46  |  97.63  | -    |       [CVPR2021](https://arxiv.org/pdf/2103.07733.pdf)       | [pytorch](https://github.com/csuhan/ReDet)                   |
 
 ## Notes
 
