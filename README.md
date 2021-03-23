@@ -21,12 +21,14 @@ This repo collects some state-of-the-art results on remote sensing ship dataset 
 |   BBAVectors    |  ResNet101   |  608x608   |  88.60  |    -    | 11.7 | [WACV2021](https://openaccess.thecvf.com/content/WACV2021/html/Yi_Oriented_Object_Detection_in_Aerial_Images_With_Box_Boundary-Aware_Vectors_WACV_2021_paper.html) | [pytorch](https://github.com/yijingru/BBAVectors-Oriented-Object-Detection) |
 |       DRN       | Hourglass104 |  768x768   |    -    |  92.70  | 10   | [CVPR2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Pan_Dynamic_Refinement_Network_for_Oriented_and_Densely_Packed_Object_Detection_CVPR_2020_paper.html) | [pytorch](https://github.com/Anymake/DRN_CVPR2020)           |
 |       DAL       |  ResNet101   |  416x416   |  88.95  |    -    | 34   |         [AAAI2021](https://arxiv.org/abs/2012.04150)         | [pytorch](https://github.com/ming71/DAL)                     |
+|     RIDet-Q     |  ResNet101   |  800x800   |  89.10  |    -    | 8.5  |          [arxiv](https://arxiv.org/abs/2103.11636)           | [pytorch](https://github.com/ming71/RIDet)                   |
 |      R3Det      |  ResNet101   |  800x800   |  89.26  |  96.01  | 12   |         [AAAI2021](https://arxiv.org/abs/1908.05612)         | [tf](https://github.com/Thinklab-SJTU/R3Det_Tensorflow), [pytorch](https://github.com/SJTU-Thinklab-Det/r3det-on-mmdetection) |
-|       DCL       |  ResNet101   |  800x800   |  89.46  |  96.41  | -    |          [arxiv](https://arxiv.org/abs/2011.09670)           | [tf](https://github.com/Thinklab-SJTU/DCL_RetinaNet_Tensorflow) |
+|       DCL       |  ResNet101   |  800x800   |  89.46  |  96.41  | -    |         [CVPR2021](https://arxiv.org/abs/2011.09670)         | [tf](https://github.com/Thinklab-SJTU/DCL_RetinaNet_Tensorflow) |
 |       CSL       |   ResNet50   |  800x800   |  89.62  |  96.10  | -    |         [ECCV2020](https://arxiv.org/abs/2003.05597)         | [tf](https://github.com/Thinklab-SJTU/CSL_RetinaNet_Tensorflow) |
+|     RIDet-O     |  ResNet101   |  800x800   |  89.63  |    -    | -    |          [arxiv](https://arxiv.org/abs/2103.11636)           | [pytorch](https://github.com/ming71/RIDet)                   |
 |     CFC-Net     |  ResNet101   |  800x800   |  89.70  |    -    | 28   |          [arxiv](https://arxiv.org/abs/2101.06849)           | [pytorch](https://github.com/ming71/CFC-Net)                 |
 |       GWD       |  ResNet101   |  800x800   |  89.85  |  97.37  | -    |          [arxiv](https://arxiv.org/abs/2101.11952)           | [tf](https://github.com/yangxue0827/RotationDetection)       |
-|     S2ANet      |  ResNet101   |  512x800   |  90.17  |  95.01  | 12.7 |          [arxiv](https://arxiv.org/abs/2008.09397)           | [pytorch](https://github.com/csuhan/s2anet)                  |
+|     S2ANet      |  ResNet101   |  512x800   |  90.17  |  95.01  | 12.7 |           [TGRS](https://arxiv.org/abs/2008.09397)           | [pytorch](https://github.com/csuhan/s2anet)                  |
 
 ## Notes
 
