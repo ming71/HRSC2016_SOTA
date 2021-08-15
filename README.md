@@ -30,7 +30,7 @@ This repo collects some state-of-the-art results on remote sensing ship dataset 
 |       CSL       |   ResNet50   |  800x800   |  89.62  |  96.10  | -    |         [ECCV2020](https://arxiv.org/abs/2003.05597)         | [tf](https://github.com/Thinklab-SJTU/CSL_RetinaNet_Tensorflow) |
 |     RIDet-O     |  ResNet101   |  800x800   |  89.63  |    -    | -    |          [arxiv](https://arxiv.org/abs/2103.11636)           | [pytorch](https://github.com/ming71/RIDet)                   |
 |     CFC-Net     |  ResNet101   |  800x800   |  89.70  |    -    | 28   | [TGRS](https://ieeexplore.ieee.org/abstract/document/9488629) | [pytorch](https://github.com/ming71/CFC-Net)                 |
-|       GWD       |  ResNet101   |  800x800   |  89.85  |  97.37  | -    |          [arxiv](https://arxiv.org/abs/2101.11952)           | [tf](https://github.com/yangxue0827/RotationDetection)       |
+|       GWD       |  ResNet101   |  800x800   |  89.85  |  97.37  | -    |         [ICML2021](https://arxiv.org/abs/2101.11952)         | [tf](https://github.com/yangxue0827/RotationDetection)       |
 |     S2ANet      |  ResNet101   |  512x800   |  90.17  |  95.01  | 12.7 |           [TGRS](https://arxiv.org/abs/2008.09397)           | [pytorch](https://github.com/csuhan/s2anet)                  |
 | Oriented R-CNN  |  ResNet101   |  1333x800  |  90.50  |  97.60  | 15.1 |         [ICCV2021](https://arxiv.org/pdf/2108.05699)         | [pytorch](https://github.com/jbwang1997/OBBDetection)        |
 |      ReDet      |  ResNet101   |  512x800   |  90.46  |  97.63  | -    |       [CVPR2021](https://arxiv.org/pdf/2103.07733.pdf)       | [pytorch](https://github.com/csuhan/ReDet)                   |
